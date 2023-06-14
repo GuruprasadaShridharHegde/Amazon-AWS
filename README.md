@@ -17,4 +17,12 @@ In some cases, you might use a combination of these services for different compo
 
 ## Deployments:
 1. login to Amazon EWS
-2. select region as Mumbai
+2. select region as Mumbai ( Your nearest region )
+3. In search Bar click on EC2.
+4. click on instance at the left and click on launch button.
+5. Select UBUNTU
+6. Use x86
+7. Select t2.micro free tire eligible.
+8. Create a new key pair.
+9. 
+10. 
