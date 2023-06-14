@@ -14,3 +14,7 @@ Lambda: AWS Lambda is a serverless compute service that allows you to run code w
 The choice of deployment option depends on your specific requirements. If you require full control over the infrastructure and need to customize the environment, EC2 might be the best choice. If you have a small function or microservice that needs to scale automatically, Lambda can be a good option. For storing static assets, S3 is a reliable choice, and for managed relational databases, RDS simplifies database administration.
 
 In some cases, you might use a combination of these services for different components of your application. AWS provides various tools and services to assist with deployment, such as AWS Elastic Beanstalk, AWS CloudFormation, and AWS CodeDeploy, which can help automate the deployment process and integrate with the services mentioned above.
+
+## Deployments:
+1. login to Amazon EWS
+2. select region as Mumbai
