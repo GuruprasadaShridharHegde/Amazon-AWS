@@ -24,5 +24,5 @@ In some cases, you might use a combination of these services for different compo
 6. Use x86
 7. Select t2.micro free tire eligible.
 8. Create a new key pair.
-9. 
-10. 
+9. Use private key format as .ppk if you are using windows.( Below windows 9 users espessially). If you have pem then you need to convert pem to .ppk
+10. In Firewall select all 3 options
