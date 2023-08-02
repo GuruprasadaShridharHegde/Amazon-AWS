@@ -26,3 +26,5 @@ In some cases, you might use a combination of these services for different compo
 8. Create a new key pair.
 9. Use private key format as .ppk if you are using windows.( Below windows 9 users espessially). If you have pem then you need to convert pem to .ppk
 10. In Firewall select all 3 options
+
+### Run instance and click on connect to run
