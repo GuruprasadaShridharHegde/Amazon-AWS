@@ -1,5 +1,6 @@
 # Amazon-AWS
 ## Find this link which  may helpful https://www.datacamp.com/tutorial/aws-ec2-beginner-tutorial
+## W3 School : https://www.w3schools.com/training/aws/home/#browse-all-header
 
 When it comes to deployments on AWS, each service you mentioned has its own purpose and plays a role in different aspects of your application. Let's discuss the deployment options for each service:
 
